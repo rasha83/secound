@@ -1,0 +1,12 @@
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.side{
+    background-color: grey;
+}
+Link{
+
+text-decoration:none;
+}

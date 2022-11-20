@@ -1,0 +1,14 @@
+
+
+.d-block{
+background-color: rgb(218, 200, 176);
+}
+.carousel-control-prev-icon{
+    background-color: black;
+    border-radius: 2rem;
+}
+.carousel-control-next-icon{
+    background-color: black;
+    border-radius: 2rem;
+
+}

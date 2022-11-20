@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    text-align: center;
+    color: rgb(103, 87, 75);
+    background-color: bisque;
+    width: 50rem;
+}
+h1{
+    text-align: center;
+    color: rgb(218, 51, 51);
+}
