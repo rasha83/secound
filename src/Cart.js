@@ -22,7 +22,7 @@ import {BsFillCartXFill }from "react-icons/bs"
    return(
     <div> 
     <div className="main">
-         <Row xs={1} md={2} className="g-4" lg={3}>
+         <Row xs={1} md={2} className="g-4" lg={4}>
         {prod.map((j) => (
           <Col key={j.id}>   
           <Card>

@@ -17,7 +17,7 @@ function TopCards() {
     ])
     return (
       
-      <Row xs={1} md={2} className="g-4">
+      <Row xs={2} md={4} lg={4} className="g-2">
         {products.map((j) => (
           <Col className="top"  key={j.id}>
             <Card>

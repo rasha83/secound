@@ -20,7 +20,7 @@ function Nave(props) {
              
            </Nav> 
            
-           <h1 className="text-center">Lusion</h1>  
+           <h3 className="text-center">Lusion</h3>  
           <  NavLink to="/Cart" className="me-2"><BsFillBasket2Fill/></NavLink>
           <Badge bg="danger">{mybadge}</Badge>
           
